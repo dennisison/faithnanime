@@ -37,7 +37,7 @@ header:
   - Fuu: Kari Wahlgren
 
 ## Image:
-![Samurai Champloo](https://resizing.flixster.com/lf1lxDl0w0y3MOPlga2AnCP7z7A=/620x336/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p186425_i_h11_aa.jpg)  
+![Samurai Champloo](https://upload.wikimedia.org/wikipedia/en/4/48/Samurai_Champloo_key_art.jpg)  
 *Promotional artwork featuring Mugen, Jin, and Fuu in their iconic styles, capturing the series' vibrant and eclectic aesthetic.*
 
 ## 1. Summary:
