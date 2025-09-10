@@ -328,4 +328,4 @@ defaults:
       related: true
       show_date: true
       header:
-        teaser: /assets/images/default-teaser.jpg # Default image for posts without images
+        teaser: /assets/images/default-teaser.png # Default image for posts without images
