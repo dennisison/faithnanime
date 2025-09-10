@@ -329,3 +329,6 @@ defaults:
       show_date: true
       header:
         teaser: /assets/images/default-teaser.png # Default image for posts without images
+
+# Custom favicon
+favicon: "/favicon.ico"  # or "/favicon.png"
