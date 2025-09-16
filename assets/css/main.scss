@@ -4,3 +4,36 @@
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
+
+/* Banner-style header */
+.page__hero {
+  padding: 0; /* Remove default padding */
+  margin-bottom: 2em;
+  
+  .page__hero-image {
+    width: 100%;
+    height: 250px; /* Set a specific banner height */
+    object-fit: cover;
+    object-position: center;
+    display: block;
+  }
+  
+  /* Responsive banner heights */
+  @media (max-width: 1024px) {
+    .page__hero-image {
+      height: 200px;
+    }
+  }
+  
+  @media (max-width: 768px) {
+    .page__hero-image {
+      height: 150px;
+    }
+  }
+  
+  @media (max-width: 480px) {
+    .page__hero-image {
+      height: 120px;
+    }
+  }
+}
